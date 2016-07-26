@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(20,20,20);
+  font-family: monospace;
+  color: white;
+}
+
+ul {
+  list-style: none;
+}
+
+.Hero {
+  text-align: center;
+  width: 100%;
+  margin-top: 30px;
+  padding: 20px;
+}
+
+.Hero.Hero-header {
+  font-size: 40px;
+  line-height: 20px;
+  margin: 0;
+}
